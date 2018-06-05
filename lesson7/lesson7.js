@@ -1,5 +1,5 @@
 // Глобальные переменные:                            
-var FIELD_SIZE_X = 20; //строки
+var FIELD_SIZE_X = 20; //строки 
 var FIELD_SIZE_Y = 20; //столбцы
 var SNAKE_SPEED = 200; // Интервал между перемещениями змейки
 var snake = []; // Сама змейка
